@@ -1,3 +1,4 @@
+# this is the final login project with everything in place
 import tkinter as tk
 import mysql.connector as mc
 from tkinter import messagebox as mb
